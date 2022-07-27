@@ -1,0 +1,31 @@
+body {
+    background-image: url("../images/background-image.jpg");
+      background-size: cover;
+      width: 90%;
+      height: 100px;
+      box-sizing: border-box;
+  }
+  header {
+    padding: 20px 35px;
+    background-color: silver;
+    opacity: 0.5;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
+    position: relative;
+    font: helvetica;
+  }
+
+  
+  header h1 {
+    font: 15px white;
+
+  }
+   
+  .hero h1 p {
+      font: #613A43 bold;
+      
+  }
